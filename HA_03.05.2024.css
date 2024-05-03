@@ -1,0 +1,13 @@
+.design {
+  background-color: blue;
+}
+
+.design2 {
+  background-color: red;
+}
+
+#bildElement {
+  display: none;
+  width: 200px;
+}
+
